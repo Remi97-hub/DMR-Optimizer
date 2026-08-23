@@ -1,6 +1,6 @@
-# OptiDMR — Daily Milk Report Optimizer
+# DMR-Optimizer — Daily Milk Report Optimizer
 
-OptiDMR simplifies the preparation of a Daily Milk Report (DMR). Given the overall Fat and SNF targets, each society's quantity, and its relative quality level, it creates society-level Fat and SNF values that satisfy the required weighted totals.
+ DMR-Optimizer simplifies the preparation of a Daily Milk Report (DMR). Given the overall Fat and SNF targets, each society's quantity, and its relative quality level, it creates society-level Fat and SNF values that satisfy the required weighted totals.
 
 The goal is to make DMR preparation fast, repeatable, and practically usable—while retaining the sharp, controlled result expected from an experienced human calculation.
 
