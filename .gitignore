@@ -1,0 +1,38 @@
+# Notebook not needed by the application
+Untitled.ipynb
+.ipynb_checkpoints/
+
+# Anaconda project metadata and local project folders
+.anaconda/
+anaconda_projects/
+AnacondaProjects/
+
+# Python bytecode and environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+build/
+dist/
+*.egg-info/
+
+# Streamlit local configuration and cache
+.streamlit/secrets.toml
+.streamlit/cache/
+saved_societies.csv
+
+# Local environment files
+.env
+*.env
+*.log
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
